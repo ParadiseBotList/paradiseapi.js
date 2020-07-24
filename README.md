@@ -1,5 +1,5 @@
 # paradiseapi.js
-An official module for interacting with the top.gg API
+An official module for interacting with the  Paradise API
 
 ## Installation
 `npm install ` - Coming Soon
