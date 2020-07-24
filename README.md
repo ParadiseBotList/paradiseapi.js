@@ -20,7 +20,7 @@ Coming Soon!
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const PARADISE = require("paradiseapi.js");
-const paradise = new PARADISE('Your top.gg token', client);
+const paradise = new PARADISE('Your Paradise API Token', client);
 
 // Optional events
 paradise.on('posted', () => {
