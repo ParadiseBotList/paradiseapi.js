@@ -1,4 +1,4 @@
-# dblapi.js
+# paradiseapi.js
 An official module for interacting with the top.gg API
 
 ## Installation
