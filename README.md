@@ -10,6 +10,8 @@ Add this to your package.json
     "paradiseapi.js": "https://github.com/ParadiseBotList/paradiseapi.js",
 ```
 
+• Save and profit
+
 ## Documentation
 Coming Soon!
 
