@@ -20,7 +20,7 @@
     ],
 
     "author": "Paradise Bot List",
-    "repository": "",
+    "repository": "ParadiseBotList/paradiseapi.js"
     "license": "Apache-2.0",
     "dependencies": {},
     "typings": "./typings/index.d.ts"
