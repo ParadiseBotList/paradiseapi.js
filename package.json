@@ -1,5 +1,5 @@
 {
-  "name": "paradiseapi.js",
+  "name": "@ParadiseBotList/paradiseapi.js",
   "version": "1.0.0",
   "description": "An official module for interacting with the Paradise Bot List API.",
   "main": "index.js",
