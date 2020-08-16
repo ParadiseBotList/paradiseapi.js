@@ -1,18 +1,24 @@
 {
-    "name": "paradiseapi.js",
-    "version": "1.0.0",
-    "description": "An official module for interacting with the Paradise Bot List API.",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "paradiseapi.js",
+  "version": "1.0.0",
+  "description": "An official module for interacting with the Paradise Bot List API.",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [
+
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/ParadiseBotList/paradiseapi.js"
+  },
+
+  "keywords": [
         "paradise",
         "bot",
         "list",
         "api",
         "javascript"
     ],
+
     "author": "Paradise Bot List",
     "repository": "",
     "license": "Apache-2.0",
