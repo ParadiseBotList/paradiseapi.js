@@ -13,7 +13,7 @@ Add this to your package.json
 • Save and profit
 
 ## Documentation
-Coming Soon!
+• [Paradise Docs](https://help.paradisebots.net)
 
 ## Example
 
