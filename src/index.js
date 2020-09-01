@@ -11,7 +11,7 @@ const isLib = (library, client) => {
     }
 };
 
-const isASupportedLibrary = client => isLib('discord.js', client) || isLib('eris', client)
+const isASupportedLibrary = client => isLib('discord.js', client) || isLib('eris', client) || isLib('klasa', client)
 
 class PARADISEAPI extends EventEmitter {
     /**
@@ -90,7 +90,7 @@ class PARADISEAPI extends EventEmitter {
 
             const options = {
                 hostname:'paradisebots.net',
-                path: `/api/auth/${endpoint}`,
+                path: `/api/auth/stats/${endpoint}`,
                 method,
                 headers: {},
             };
