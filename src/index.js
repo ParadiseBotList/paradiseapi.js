@@ -90,7 +90,7 @@ class PARADISEAPI extends EventEmitter {
 
             const options = {
                 hostname:'paradisebots.net',
-                path: `/api/auth/stats/${endpoint}`,
+                path: `/api/v1/bot/${endpoint}`,
                 method,
                 headers: {},
             };
